@@ -15,17 +15,17 @@ function Navbar() {
       <div className={styles.container}>
         <div className={styles.nav_con}>
           <div className={styles.logo}>
-            <a href="#">My Portfolio</a>
+            <a href="MyPortfolio">My Portfolio</a>
           </div>
 
           <ul>
-            <li><a href="#skills" >Skills</a></li>
-            <li><a href="#portfolio" >Portfolio</a></li>
-            <li><a href="#contact" >Contact</a></li>
+            <li><a href="skills" >Skills</a></li>
+            <li><a href="portfolio" >Portfolio</a></li>
+            <li><a href="contact" >Contact</a></li>
           </ul>
 
           <div className={styles.button}>
-            <a href="#">Hire Me</a>
+            <a href="HireMe">Hire Me</a>
           </div>
         </div>
 
@@ -34,13 +34,13 @@ function Navbar() {
         {isToggle ? (
           <>
             <ul className={styles.mobile_menu}>
-              <li><a href="#">Skills</a></li>
-              <li><a href="#">Portfolio</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="Skills">Skills</a></li>
+              <li><a href="Portfolio">Portfolio</a></li>
+              <li><a href="Contact">Contact</a></li>
             </ul>
 
             <div className={styles.mobile_button}>
-              <a href="#">Hire Me</a>
+              <a href="HireMe">Hire Me</a>
             </div>
           </>
         ) : null
