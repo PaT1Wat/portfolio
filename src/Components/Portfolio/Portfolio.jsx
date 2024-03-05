@@ -11,7 +11,7 @@ function Portfolio() {
         
         <div className={styles.port_items}>
           <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>
-            <img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="Free Code Camp" />  
+            <img src="https://dqy38fnwh4fqs.cloudfront.net/company/COMHQ7B9RJKNGNPRAHBEONDNBJE788/logo.webp" alt="Free Code Camp" />  
           </Tilt>
             <p>Free Code Camp</p>
         </div>
