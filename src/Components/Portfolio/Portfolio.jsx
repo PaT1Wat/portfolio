@@ -39,14 +39,14 @@ function Portfolio() {
 
         <div className={styles.port_items}>
           <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>
-            <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/358149121_678562134302307_3179745460758459830_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGcFHGsneiWbuzs-15GZF0joihUHO81AA6iKFQc7zUADgUwIJ8ucZrqIcOA-CBE82mEBe_YUHdTtYtgZfC_dwKK&_nc_ohc=lN2wUmGdhZIAX-QjglB&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfBp_FMAkmu7FEL3XMTBeh5bxB6BiG6MLH1qTsu2jYYqrA&oe=65E78ADF" alt="Codecademy" />
+            <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/codecademy-5f60af13ae6d0.o.png" alt="Codecademy" />
           </Tilt>    
             <p>Codecademy</p>
         </div>
 
         <div className={styles.port_items}>
           <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>
-            <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/312978270_777021647086025_8407389807946134683_n.png?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE00jbxUN7KuR53joXmCb5x0m1QcBYswuXSbVBwFizC5d_sLRySInCj_OuXKa3W-h2ywVOH9Kd-ttoSOOJz2JvD&_nc_ohc=7_tvMRnGH7IAX98SSuk&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfA3kfIB5M6hE27IDqXaXrdbjapzoQ4uEIVw_sg5nBMGzQ&oe=65E88B09" alt="Code Avengers" />
+            <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1114/original/Code_Avengers_logo.png" alt="Code Avengers" />
           </Tilt>  
             <p>Code Avengers </p>
         </div>
