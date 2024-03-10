@@ -6,7 +6,7 @@ import { HiOutlineMail } from "react-icons/hi";
 function Contact() {
 
   return (
-    <div className={styles.contact_wrapper}>
+    <div id="Comtact" className={styles.contact_wrapper}>
         <div className={styles.contact_con}>
             <div className={styles.contact_info}>
                 <h3>Get in touch</h3>
