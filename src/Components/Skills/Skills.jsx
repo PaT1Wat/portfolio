@@ -4,7 +4,7 @@ import { FaSquareJs, FaReact, FaCss3, FaPython, FaNode } from 'react-icons/fa6';
 
 function Skills() {
   return (
-    <div className={styles.skills_container}>
+    <div id="Skill" className={styles.skills_container}>
       <h3 className={styles.skills_title}>My Skills Set</h3>
       <ul className={styles.skills_list}>
         <li><FaSquareJs /></li>
